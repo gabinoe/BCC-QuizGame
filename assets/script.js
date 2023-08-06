@@ -25,7 +25,7 @@ const questions = [
     choices: ["Mars", "Venus", "Mercury", "Jupiter"],
     answer: 0
   },
-  // Add more questions...
+  // Add questions...
 ];
 
 // Initialize the quiz
