@@ -1,7 +1,5 @@
 # Quiz Web Application
 
-![Quiz](https://gabinoe.github.io/BCC-QuizGame)
-
 ## Description
 
 This Quiz is a web application that allows users to test their knowledge with a series of multiple-choice questions. Users can start the quiz, answer questions within a specified time limit, and see their final score at the end of the quiz. The application also provides an option to enter initials to save and track the user's scores.
@@ -26,5 +24,5 @@ To see a live demo of the Code Quiz web application, please visit [https://gabin
 To set up the Code Quiz application locally, follow these steps:
 
 1. Clone the repository:
-
+https://github.com/gabinoe/BCC-QuizGame
 
