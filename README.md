@@ -23,6 +23,8 @@ To see a live demo of the Code Quiz web application, please visit [https://gabin
 
 To set up the Code Quiz application locally, follow these steps:
 
-1. Clone the repository:
-https://github.com/gabinoe/BCC-QuizGame
+## LINKS
+
+- repo: https://github.com/gabinoe/BCC-QuizGame
+- pages: https://gabinoe.github.io/BCC-QuizGame
 
