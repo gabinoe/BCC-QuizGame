@@ -26,5 +26,5 @@ To set up the Code Quiz application locally, follow these steps:
 ## LINKS
 
 - repo: https://github.com/gabinoe/BCC-QuizGame
-- pages: https://gabinoe.github.io/BCC-QuizGame
+
 
